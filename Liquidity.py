@@ -9,7 +9,11 @@ APPROVE_ABI = json.loads ('''[{"type":"event","name":"Approval","inputs":[{"type
 approve_contract_address = Web3.to_checksum_address('0xD9880690bd717189cC3Fbe7B9020F27fae7Ac76F')
 approve_contract = w3.eth.contract(approve_contract_address, abi=APPROVE_ABI)
 
-
+#https://t.me/malinmakin
+#https://t.me/malinmakin
+#https://t.me/malinmakin
+#https://t.me/malinmakin
+#https://t.me/malinmakin
 
 def approve(account):
     address = account.address
