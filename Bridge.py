@@ -17,7 +17,7 @@ eth_contract = w3.eth.contract(eth_contract_address, abi=ERC20_ABI)
 #https://t.me/malinmakin
 CHAIN_ID = w3.eth.chain_id
 GAS_AMOUNT = 283155
-value = 10000000000000
+value = 40000000000000000
 
 
 def change_contract_state(account):
